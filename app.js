@@ -1,4 +1,4 @@
-function writealgodemo() {
+function writealgodemo1() {
     var side_a = Math.random() * 10 + 5;
     var side_b = Math.random() * 10 + 5;
     document.write("side a=" + side_a + "side b=" + side_b);
